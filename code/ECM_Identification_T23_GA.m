@@ -1,4 +1,3 @@
-%% Energy 295 Spring 2019 - Homework 3, Problem 2
 %  Parameter identification of an equivalent circuit battery model 
 %  over a HPPC profile at T = 23degC.
 %

@@ -1,4 +1,3 @@
-%% Energy 295 Spring 2019 - Homework 3, Problem 2
 %  Validation of an equivalent circuit battery model 
 %  over HPPC profiles at T = 23degC and 45degC, 
 %  and a US06 profile at T = 23degC.
